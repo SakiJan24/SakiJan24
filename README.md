@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Data Engineering Student<br>🧑‍🏫 Currently studying at Pontificia Universidad Javeriana, Bogota<br>🐧 Linux and JavaScript lover<br>🐍 Python enthusiast<br><br>
+🧑‍💻 Data Engineering Student<br>🧑‍🏫 Currently studying at Pontificia Universidad Javeriana, Bogota<br>🐧 Operative Systems and JavaScript lover<br>🐍 Python enthusiast<br><br>
 
 
 # 💻 Tech Stack:
